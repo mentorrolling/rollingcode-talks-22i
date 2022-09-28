@@ -67,6 +67,12 @@ textarea {
   resize: none;
 }
 
+.whatsapp {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+
 /* footer  */
 .footer {
   background-color: #a00b0a;
