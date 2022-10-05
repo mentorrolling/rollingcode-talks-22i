@@ -73,6 +73,10 @@ textarea {
   bottom: 10px;
 }
 
+.whatsapp img {
+  border-radius: 100%;
+}
+
 /* footer  */
 .footer {
   background-color: #a00b0a;
